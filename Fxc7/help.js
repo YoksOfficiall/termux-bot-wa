@@ -60,7 +60,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ┃├⊱❥ *${prefix}ytmp3 [link yt]*
 ┃├⊱❥ *${prefix}ytmp4 [link yt]*
 ┃├⊱❥ *${prefix}tiktokstalk [username]*
-┃├⊱❥ *${prefix}igstalk [_farhan_xcode7]*
+┃├⊱❥ *${prefix}igstalk [bel_abelll19]*
 ┃├⊱❥ *${prefix}insta [Link]*
 ┃├⊱❥ *${prefix}ssweb [url]*
 ┃├⊱❥ *${prefix}url2img [Url]*
@@ -86,13 +86,13 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ┃╭─────────────────────────
 ┃├⊱❥ *${prefix}imoji [❤️]*
 ┃├⊱❥ *${prefix}tts [id Haii]*
-┃├⊱❥ *${prefix}ttp [Fxc7]*
-┃├⊱❥ *${prefix}csky [FXC7]*
-┃├⊱❥ *${prefix}cwooden [FXC7]*
-┃├⊱❥ *${prefix}ccrossfire [FXC7]*
-┃├⊱❥ *${prefix}cnaruto [FXC7]*
-┃├⊱❥ *${prefix}cgbutton [FXC7]*
-┃├⊱❥ *${prefix}csbutton [FXC7]*
+┃├⊱❥ *${prefix}ttp [Yks]*
+┃├⊱❥ * $ { prefix } csky [Yks]* 
+┃├⊱❥ * $ { awalan } cwooden [Yks]*
+┃├⊱❥ * $ { prefix } ccrossfire [Yks] *
+┃├⊱❥ * $ { prefix } cnaruto [Yks]*
+┃├⊱❥ * $ { prefix } cgbutton [FXC7]*
+┃├⊱❥ * $ { prefix } csbutton [FXC7] *
 ┃├⊱❥ *${prefix}cflower [FXC7]*
 ┃├⊱❥ *${prefix}ctxtneon [FXC7]*
 ┃├⊱❥ *${prefix}cflame3d [FXC7]*
@@ -226,33 +226,33 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ┣━━━━━━━━━━━━━━━━━━━━━━━━❥
 ┃╭────────────────────
 ┃├⊱❥ *${prefix}translate [en/Apa kabar?]*
-┃├⊱❥ *${prefix}gantengcek [Farhan]*
-┃├⊱❥ *${prefix}cantikcek [Iriene]*
+┃├⊱❥ *${prefix}gantengcek [MYBO]*
+┃├⊱❥ *${prefix}cantikcek [BILLA]*
 ┃├⊱❥ *${prefix}artinama [Farhan]*
 ┃├⊱❥ *${prefix}persengay [Topan]*
 ┃├⊱❥ *${prefix}pbucin [Farhan]*
 ┃├⊱❥ *${prefix}bpfont [Farhan]*
-┃├⊱❥ *${prefix}textstyle [FXC7]*
+┃├⊱❥ *${prefix}textstyle [YKS]*
 ┃├⊱❥ *${prefix}jadwaltv [antv]*
 ┃├⊱❥ *${prefix}lirik [melukis senja]*
 ┃├⊱❥ *${prefix}chord [Melukis senja]*
 ┃├⊱❥ *${prefix}wiki [Adolf Hitler]*
 ┃├⊱❥ *${prefix}brainly [pertanyaan]*
 ┃├⊱❥ *${prefix}resepmasakan [Tempe]*
-┃├⊱❥ *${prefix}map [Banyuwangi]*
+┃├⊱❥ *${prefix}map [Pekalongan]*
 ┃├⊱❥ *${prefix}film [Fast and Farious]*
 ┃├⊱❥ *${prefix}joox [Monolog Pamungkas]*
 ┃├⊱❥ *${prefix}smule [Link Video Smule]*
 ┃├⊱❥ *${prefix}pinterest [gambar kucing]*
-┃├⊱❥ *${prefix}infocuaca [Banyuwangi]*
-┃├⊱❥ *${prefix}jamdunia [Banyuwangi]*
+┃├⊱❥ *${prefix}infocuaca [Pekalongan]*
+┃├⊱❥ *${prefix}jamdunia [Pekalongan]*
 ┃├⊱❥ *${prefix}mimpi [Ular]*
 ┃├⊱❥ *${prefix}tinyurl [link]*
 ┃├⊱❥ *${prefix}bitly [link]*
 ┃╰────────────────────
 ┣━━━━━━━━━━━━━━━━━━━━━━━━❥
 ┃╭────────────────────
-┃├⊱❥ *${prefix}jadwalsholat [Banyuwangi]*
+┃├⊱❥ *${prefix}jadwalsholat [Indonedia]*
 ┃├⊱❥ *${prefix}quran*
 ┃├⊱❥ *${prefix}quransurah [1]*
 ┃╰────────────────────
@@ -289,8 +289,8 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ┃╭────────────────────────
 ┃│
 ┃├➲ *O BOT*
-┃├➲ *M. HADI FIRMANSYA*
-┃├➲ *DELIA AULIA*
+┃├➲ *HADI:V*
+┃├➲ *HANS:V*
 ┃├➲ *KEVIN DAVID*
 ┃╰────────────────────────
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
@@ -311,7 +311,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ┃ *${prefix}report* \`\`\`apa pesan errornya\`\`\`
 ┃
 ┣⊱❥ \`\`\`Mau Invit Bot?? Donasi Gan,\`\`\`
-┃ \`\`\`Kalo Gamau Donasi Follow Ig @_farhan_xcode7\`\`\`
+┃ \`\`\`Kalo Gamau Donasi Follow Ig @bel_abelll19\`\`\`
 ┃
 ┣⊱❥ \`\`\`Kalian Bisa Mempublish Quotes Kalian\`\`\`
 ┃ \`\`\`Jika Minat Hubungi Aja Owner Buat Mempublish\`\`\`
