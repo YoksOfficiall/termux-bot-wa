@@ -60,14 +60,14 @@ const anlink = JSON.parse(fs.readFileSync('./database/json/antilink.json'))
 ban = []
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Farhan\n'
+            + 'FN:Billa\n'
             + 'ORG:Creator FXC7;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=628311800241:+62 831-1800-241\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6285742605040:+62 857-4260-5040\n'
             + 'END:VCARD'
 
 prefix = '.'
-ig = 'https://www.instagram.com/_farhan_xcode7'
-name = '~ F X C 7 B O T'
+ig = 'https://www.instagram.com/bel_abelll19'
+name = ' Y O K S B O T'
 
 function kyun(seconds){
   function pad(s){
@@ -189,7 +189,7 @@ async function starts() {
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["628311800241@s.whatsapp.net"]
+			const ownerNumber = ["685742605040@s.whatsapp.net"]
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
@@ -440,7 +440,7 @@ async function starts() {
 					break
 					
 				case 'owner':
-                 client.sendMessage(from, {displayname: "Fxc7", vcard: vcard}, MessageType.contact, { quoted: mek})
+                 client.sendMessage(from, {displayname: "YksBot", vcard: vcard}, MessageType.contact, { quoted: mek})
                  client.sendMessage(from, 'Jika Mau Save Chat Aja Gan Ntar Disave Back:)',text, { quoted: mek} )
                  break
                  case 'fitnah':	
@@ -1912,7 +1912,7 @@ async function starts() {
 						teks += `╠➥ @${mem.jid.split('@')[0]} wa.me/${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
-					mentions(`╔═══✪ *${pushname2}* ✪══`+ teks +'╚═══〘 FXC7 BOT 〙═══', members_id, true)
+					mentions(`╔═══✪ *${pushname2}* ✪══`+ teks +'╚═══〘 YKS BOT 〙═══', members_id, true)
 					break
 			    case 'mentionall':
 			    if (isBanned) return reply(mess.only.benned)    
@@ -1925,7 +1925,7 @@ async function starts() {
 						teks += `╠➥ @${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
-					mentions(`╔══〘  *${body.slice(12)}*  〙✪══`+teks+'╚═〘 FXC7 BOT 〙', members_id, true)
+					mentions(`╔══〘  *${body.slice(12)}*  〙✪══`+teks+'╚═〘 YKS BOT 〙', members_id, true)
 					break
 			    case 'kudeta':
 					if (!isGroup) return reply(mess.only.group)
@@ -1984,7 +1984,7 @@ async function starts() {
 					for (let _ of anu) {
 						client.deleteChat(_.jid)
 					}
-					reply(`\`\`\`Sukses delete all chat FXC7BOT\`\`\``)
+					reply(`\`\`\`Sukses delete all chat YKSBOT\`\`\``)
 					break
                                 case 'bcgc':
 					client.updatePresence(from, Presence.composing) 
@@ -2017,7 +2017,7 @@ async function starts() {
 						reply('Suksess broadcast')
 					} else {
 						for (let _ of anu) {
-							sendMess(_.jid, `[ *FXC7BOT BROADCAST* ]\n\n${body.slice(4)}`)
+							sendMess(_.jid, `[ *YOKSBOT BROADCAST* ]\n\n${body.slice(4)}`)
 						}
 						reply('Suksess broadcast')
 					}
